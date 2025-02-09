@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Required:-
+1 motor driver L293d
+2 DC motor(low rpm as we are using only one motor driver)
+Lippo battery 2300 MAH
+Arduino Uno
+Bluetooth receiver HC-05
+some jumper wires
