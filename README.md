@@ -1,4 +1,5 @@
 RC CAR CODES AND CONNECTIONS
 <br/>
-We are using One motor driver with bluetooth receiver.
-it's advised to use low rpm motors with this connection.
+Here i am providing you different code with different connections as the requirement of equipments.
+<br/>
+GO to main and select which codes and connection you want.
